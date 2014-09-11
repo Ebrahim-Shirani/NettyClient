@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NettyClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblMessage">Type Message: </string>
+    <string name="default_msg">Hello Android</string>
+    <string name="btnSendMessagelable">Send Message</string>
+    <string name="lblRecievedMessage">Recieved Messages: </string>
+
+</resources>
